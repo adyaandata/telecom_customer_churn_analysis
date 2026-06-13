@@ -134,19 +134,6 @@ Based on the findings, the following actions may help reduce customer churn:
 
 ---
 
-## 📚 Learning Outcomes
-
-Through this project, I gained hands-on experience in:
-
-- Data Cleaning and Preprocessing
-- Exploratory Data Analysis (EDA)
-- Data Visualization using Matplotlib and Seaborn
-- Customer Churn Analysis
-- Extracting Business Insights from Data
-- Working with Real-World Datasets
-
----
-
 ## Conclusion
 
 This project explores customer churn patterns in a telecom dataset using Python-based Exploratory Data Analysis. The findings highlight how factors such as contract type, tenure, payment methods, and support-related services influence customer retention. These insights can help businesses better understand customer behavior and develop strategies to reduce churn.
